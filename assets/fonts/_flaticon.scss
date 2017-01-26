@@ -1,0 +1,321 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 14/03/2016 06:05
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-apple:before { content: "\f100"; }
+.flaticon-art:before { content: "\f101"; }
+.flaticon-black:before { content: "\f102"; }
+.flaticon-carnival16:before { content: "\f103"; }
+.flaticon-chain:before { content: "\f104"; }
+.flaticon-circle:before { content: "\f105"; }
+.flaticon-circle-1:before { content: "\f106"; }
+.flaticon-clock:before { content: "\f107"; }
+.flaticon-clock-1:before { content: "\f108"; }
+.flaticon-clock-2:before { content: "\f109"; }
+.flaticon-clock-3:before { content: "\f10a"; }
+.flaticon-clock-4:before { content: "\f10b"; }
+.flaticon-computer:before { content: "\f10c"; }
+.flaticon-computer-1:before { content: "\f10d"; }
+.flaticon-cross:before { content: "\f10e"; }
+.flaticon-dark:before { content: "\f10f"; }
+.flaticon-days:before { content: "\f110"; }
+.flaticon-detective1:before { content: "\f111"; }
+.flaticon-eye:before { content: "\f112"; }
+.flaticon-eye-1:before { content: "\f113"; }
+.flaticon-eye-2:before { content: "\f114"; }
+.flaticon-eye67:before { content: "\f115"; }
+.flaticon-eye90:before { content: "\f116"; }
+.flaticon-eyeglass:before { content: "\f117"; }
+.flaticon-eyeglasses18:before { content: "\f118"; }
+.flaticon-eyeglasses22:before { content: "\f119"; }
+.flaticon-eyeglasses4:before { content: "\f11a"; }
+.flaticon-eyes:before { content: "\f11b"; }
+.flaticon-glamour:before { content: "\f11c"; }
+.flaticon-graphic:before { content: "\f11d"; }
+.flaticon-healthy:before { content: "\f11e"; }
+.flaticon-healthy-1:before { content: "\f11f"; }
+.flaticon-healthy-2:before { content: "\f120"; }
+.flaticon-healthy-3:before { content: "\f121"; }
+.flaticon-healthy-4:before { content: "\f122"; }
+.flaticon-hospital:before { content: "\f123"; }
+.flaticon-interface:before { content: "\f124"; }
+.flaticon-interface-1:before { content: "\f125"; }
+.flaticon-interface-2:before { content: "\f126"; }
+.flaticon-link:before { content: "\f127"; }
+.flaticon-link-1:before { content: "\f128"; }
+.flaticon-link-2:before { content: "\f129"; }
+.flaticon-link-3:before { content: "\f12a"; }
+.flaticon-link-4:before { content: "\f12b"; }
+.flaticon-location:before { content: "\f12c"; }
+.flaticon-magnifier40:before { content: "\f12d"; }
+.flaticon-medical:before { content: "\f12e"; }
+.flaticon-medical-1:before { content: "\f12f"; }
+.flaticon-medical-10:before { content: "\f130"; }
+.flaticon-medical-11:before { content: "\f131"; }
+.flaticon-medical-12:before { content: "\f132"; }
+.flaticon-medical-13:before { content: "\f133"; }
+.flaticon-medical-14:before { content: "\f134"; }
+.flaticon-medical-15:before { content: "\f135"; }
+.flaticon-medical-16:before { content: "\f136"; }
+.flaticon-medical-17:before { content: "\f137"; }
+.flaticon-medical-18:before { content: "\f138"; }
+.flaticon-medical-19:before { content: "\f139"; }
+.flaticon-medical-2:before { content: "\f13a"; }
+.flaticon-medical-20:before { content: "\f13b"; }
+.flaticon-medical-21:before { content: "\f13c"; }
+.flaticon-medical-22:before { content: "\f13d"; }
+.flaticon-medical-23:before { content: "\f13e"; }
+.flaticon-medical-24:before { content: "\f13f"; }
+.flaticon-medical-25:before { content: "\f140"; }
+.flaticon-medical-26:before { content: "\f141"; }
+.flaticon-medical-27:before { content: "\f142"; }
+.flaticon-medical-28:before { content: "\f143"; }
+.flaticon-medical-29:before { content: "\f144"; }
+.flaticon-medical-3:before { content: "\f145"; }
+.flaticon-medical-4:before { content: "\f146"; }
+.flaticon-medical-5:before { content: "\f147"; }
+.flaticon-medical-6:before { content: "\f148"; }
+.flaticon-medical-7:before { content: "\f149"; }
+.flaticon-medical-8:before { content: "\f14a"; }
+.flaticon-medical-9:before { content: "\f14b"; }
+.flaticon-medicine:before { content: "\f14c"; }
+.flaticon-nature:before { content: "\f14d"; }
+.flaticon-networking:before { content: "\f14e"; }
+.flaticon-other:before { content: "\f14f"; }
+.flaticon-people:before { content: "\f150"; }
+.flaticon-people-1:before { content: "\f151"; }
+.flaticon-people-2:before { content: "\f152"; }
+.flaticon-people-3:before { content: "\f153"; }
+.flaticon-people-4:before { content: "\f154"; }
+.flaticon-person:before { content: "\f155"; }
+.flaticon-phone:before { content: "\f156"; }
+.flaticon-pin:before { content: "\f157"; }
+.flaticon-rectangle:before { content: "\f158"; }
+.flaticon-ribbon:before { content: "\f159"; }
+.flaticon-searching1:before { content: "\f15a"; }
+.flaticon-shape:before { content: "\f15b"; }
+.flaticon-shapes:before { content: "\f15c"; }
+.flaticon-shapes-1:before { content: "\f15d"; }
+.flaticon-sign:before { content: "\f15e"; }
+.flaticon-social:before { content: "\f15f"; }
+.flaticon-social-1:before { content: "\f160"; }
+.flaticon-social-10:before { content: "\f161"; }
+.flaticon-social-11:before { content: "\f162"; }
+.flaticon-social-2:before { content: "\f163"; }
+.flaticon-social-3:before { content: "\f164"; }
+.flaticon-social-4:before { content: "\f165"; }
+.flaticon-social-5:before { content: "\f166"; }
+.flaticon-social-6:before { content: "\f167"; }
+.flaticon-social-7:before { content: "\f168"; }
+.flaticon-social-8:before { content: "\f169"; }
+.flaticon-social-9:before { content: "\f16a"; }
+.flaticon-square:before { content: "\f16b"; }
+.flaticon-square-1:before { content: "\f16c"; }
+.flaticon-square-2:before { content: "\f16d"; }
+.flaticon-squares:before { content: "\f16e"; }
+.flaticon-sunny:before { content: "\f16f"; }
+.flaticon-symbol:before { content: "\f170"; }
+.flaticon-symbols:before { content: "\f171"; }
+.flaticon-symbols-1:before { content: "\f172"; }
+.flaticon-technology:before { content: "\f173"; }
+.flaticon-technology-1:before { content: "\f174"; }
+.flaticon-technology-2:before { content: "\f175"; }
+.flaticon-technology-3:before { content: "\f176"; }
+.flaticon-technology-4:before { content: "\f177"; }
+.flaticon-technology-5:before { content: "\f178"; }
+.flaticon-technology-6:before { content: "\f179"; }
+.flaticon-technology-7:before { content: "\f17a"; }
+.flaticon-time:before { content: "\f17b"; }
+.flaticon-time-1:before { content: "\f17c"; }
+.flaticon-tool:before { content: "\f17d"; }
+.flaticon-tool-1:before { content: "\f17e"; }
+.flaticon-tool-2:before { content: "\f17f"; }
+.flaticon-tool-3:before { content: "\f180"; }
+.flaticon-tool-4:before { content: "\f181"; }
+.flaticon-tool-5:before { content: "\f182"; }
+.flaticon-tool-6:before { content: "\f183"; }
+.flaticon-tool-7:before { content: "\f184"; }
+.flaticon-transport:before { content: "\f185"; }
+.flaticon-transport-1:before { content: "\f186"; }
+.flaticon-two:before { content: "\f187"; }
+.flaticon-view:before { content: "\f188"; }
+.flaticon-view-1:before { content: "\f189"; }
+.flaticon-view32:before { content: "\f18a"; }
+.flaticon-vimeo:before { content: "\f18b"; }
+.flaticon-women:before { content: "\f18c"; }
+    
+    $font-Flaticon-apple: "\f100";
+    $font-Flaticon-art: "\f101";
+    $font-Flaticon-black: "\f102";
+    $font-Flaticon-carnival16: "\f103";
+    $font-Flaticon-chain: "\f104";
+    $font-Flaticon-circle: "\f105";
+    $font-Flaticon-circle-1: "\f106";
+    $font-Flaticon-clock: "\f107";
+    $font-Flaticon-clock-1: "\f108";
+    $font-Flaticon-clock-2: "\f109";
+    $font-Flaticon-clock-3: "\f10a";
+    $font-Flaticon-clock-4: "\f10b";
+    $font-Flaticon-computer: "\f10c";
+    $font-Flaticon-computer-1: "\f10d";
+    $font-Flaticon-cross: "\f10e";
+    $font-Flaticon-dark: "\f10f";
+    $font-Flaticon-days: "\f110";
+    $font-Flaticon-detective1: "\f111";
+    $font-Flaticon-eye: "\f112";
+    $font-Flaticon-eye-1: "\f113";
+    $font-Flaticon-eye-2: "\f114";
+    $font-Flaticon-eye67: "\f115";
+    $font-Flaticon-eye90: "\f116";
+    $font-Flaticon-eyeglass: "\f117";
+    $font-Flaticon-eyeglasses18: "\f118";
+    $font-Flaticon-eyeglasses22: "\f119";
+    $font-Flaticon-eyeglasses4: "\f11a";
+    $font-Flaticon-eyes: "\f11b";
+    $font-Flaticon-glamour: "\f11c";
+    $font-Flaticon-graphic: "\f11d";
+    $font-Flaticon-healthy: "\f11e";
+    $font-Flaticon-healthy-1: "\f11f";
+    $font-Flaticon-healthy-2: "\f120";
+    $font-Flaticon-healthy-3: "\f121";
+    $font-Flaticon-healthy-4: "\f122";
+    $font-Flaticon-hospital: "\f123";
+    $font-Flaticon-interface: "\f124";
+    $font-Flaticon-interface-1: "\f125";
+    $font-Flaticon-interface-2: "\f126";
+    $font-Flaticon-link: "\f127";
+    $font-Flaticon-link-1: "\f128";
+    $font-Flaticon-link-2: "\f129";
+    $font-Flaticon-link-3: "\f12a";
+    $font-Flaticon-link-4: "\f12b";
+    $font-Flaticon-location: "\f12c";
+    $font-Flaticon-magnifier40: "\f12d";
+    $font-Flaticon-medical: "\f12e";
+    $font-Flaticon-medical-1: "\f12f";
+    $font-Flaticon-medical-10: "\f130";
+    $font-Flaticon-medical-11: "\f131";
+    $font-Flaticon-medical-12: "\f132";
+    $font-Flaticon-medical-13: "\f133";
+    $font-Flaticon-medical-14: "\f134";
+    $font-Flaticon-medical-15: "\f135";
+    $font-Flaticon-medical-16: "\f136";
+    $font-Flaticon-medical-17: "\f137";
+    $font-Flaticon-medical-18: "\f138";
+    $font-Flaticon-medical-19: "\f139";
+    $font-Flaticon-medical-2: "\f13a";
+    $font-Flaticon-medical-20: "\f13b";
+    $font-Flaticon-medical-21: "\f13c";
+    $font-Flaticon-medical-22: "\f13d";
+    $font-Flaticon-medical-23: "\f13e";
+    $font-Flaticon-medical-24: "\f13f";
+    $font-Flaticon-medical-25: "\f140";
+    $font-Flaticon-medical-26: "\f141";
+    $font-Flaticon-medical-27: "\f142";
+    $font-Flaticon-medical-28: "\f143";
+    $font-Flaticon-medical-29: "\f144";
+    $font-Flaticon-medical-3: "\f145";
+    $font-Flaticon-medical-4: "\f146";
+    $font-Flaticon-medical-5: "\f147";
+    $font-Flaticon-medical-6: "\f148";
+    $font-Flaticon-medical-7: "\f149";
+    $font-Flaticon-medical-8: "\f14a";
+    $font-Flaticon-medical-9: "\f14b";
+    $font-Flaticon-medicine: "\f14c";
+    $font-Flaticon-nature: "\f14d";
+    $font-Flaticon-networking: "\f14e";
+    $font-Flaticon-other: "\f14f";
+    $font-Flaticon-people: "\f150";
+    $font-Flaticon-people-1: "\f151";
+    $font-Flaticon-people-2: "\f152";
+    $font-Flaticon-people-3: "\f153";
+    $font-Flaticon-people-4: "\f154";
+    $font-Flaticon-person: "\f155";
+    $font-Flaticon-phone: "\f156";
+    $font-Flaticon-pin: "\f157";
+    $font-Flaticon-rectangle: "\f158";
+    $font-Flaticon-ribbon: "\f159";
+    $font-Flaticon-searching1: "\f15a";
+    $font-Flaticon-shape: "\f15b";
+    $font-Flaticon-shapes: "\f15c";
+    $font-Flaticon-shapes-1: "\f15d";
+    $font-Flaticon-sign: "\f15e";
+    $font-Flaticon-social: "\f15f";
+    $font-Flaticon-social-1: "\f160";
+    $font-Flaticon-social-10: "\f161";
+    $font-Flaticon-social-11: "\f162";
+    $font-Flaticon-social-2: "\f163";
+    $font-Flaticon-social-3: "\f164";
+    $font-Flaticon-social-4: "\f165";
+    $font-Flaticon-social-5: "\f166";
+    $font-Flaticon-social-6: "\f167";
+    $font-Flaticon-social-7: "\f168";
+    $font-Flaticon-social-8: "\f169";
+    $font-Flaticon-social-9: "\f16a";
+    $font-Flaticon-square: "\f16b";
+    $font-Flaticon-square-1: "\f16c";
+    $font-Flaticon-square-2: "\f16d";
+    $font-Flaticon-squares: "\f16e";
+    $font-Flaticon-sunny: "\f16f";
+    $font-Flaticon-symbol: "\f170";
+    $font-Flaticon-symbols: "\f171";
+    $font-Flaticon-symbols-1: "\f172";
+    $font-Flaticon-technology: "\f173";
+    $font-Flaticon-technology-1: "\f174";
+    $font-Flaticon-technology-2: "\f175";
+    $font-Flaticon-technology-3: "\f176";
+    $font-Flaticon-technology-4: "\f177";
+    $font-Flaticon-technology-5: "\f178";
+    $font-Flaticon-technology-6: "\f179";
+    $font-Flaticon-technology-7: "\f17a";
+    $font-Flaticon-time: "\f17b";
+    $font-Flaticon-time-1: "\f17c";
+    $font-Flaticon-tool: "\f17d";
+    $font-Flaticon-tool-1: "\f17e";
+    $font-Flaticon-tool-2: "\f17f";
+    $font-Flaticon-tool-3: "\f180";
+    $font-Flaticon-tool-4: "\f181";
+    $font-Flaticon-tool-5: "\f182";
+    $font-Flaticon-tool-6: "\f183";
+    $font-Flaticon-tool-7: "\f184";
+    $font-Flaticon-transport: "\f185";
+    $font-Flaticon-transport-1: "\f186";
+    $font-Flaticon-two: "\f187";
+    $font-Flaticon-view: "\f188";
+    $font-Flaticon-view-1: "\f189";
+    $font-Flaticon-view32: "\f18a";
+    $font-Flaticon-vimeo: "\f18b";
+    $font-Flaticon-women: "\f18c";

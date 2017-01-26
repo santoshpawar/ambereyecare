@@ -1,0 +1,51 @@
+#portfolio {
+	font-size:0;
+    /*margin: 0 -10px;*/
+}
+
+#filters {
+	margin-bottom:50px;
+	text-align:center;
+}
+
+#filters li {
+	display:inline-block;
+	margin-bottom:10px;
+}
+
+.element {
+	width:25%;
+	padding:10px;
+	display: inline-block;
+    vertical-align: top;
+}
+
+.element figcaption {
+    background: #f4f4f4;
+    padding: 25px;
+}
+
+.three-column .element {
+	width: 33.333333%;
+}
+
+.two-column .element {
+	width: 50%;
+}
+
+/* =Media queries
+-------------------------------------------------------------- */
+
+@media (max-width: 991px) {
+  #portfolio .element {
+    width: 49%;
+  }
+
+ 
+}
+
+@media (max-width: 600px) {
+  #portfolio .element {
+    width: 100%;
+  }
+}
